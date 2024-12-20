@@ -1,0 +1,15 @@
+C:\Users\kraso\Documents\GitHub\ProgramEngineeringRep\PETask\PETask\bin\Debug\net8.0\PETask.exe
+C:\Users\kraso\Documents\GitHub\ProgramEngineeringRep\PETask\PETask\bin\Debug\net8.0\PETask.deps.json
+C:\Users\kraso\Documents\GitHub\ProgramEngineeringRep\PETask\PETask\bin\Debug\net8.0\PETask.runtimeconfig.json
+C:\Users\kraso\Documents\GitHub\ProgramEngineeringRep\PETask\PETask\bin\Debug\net8.0\PETask.dll
+C:\Users\kraso\Documents\GitHub\ProgramEngineeringRep\PETask\PETask\bin\Debug\net8.0\PETask.pdb
+C:\Users\kraso\Documents\GitHub\ProgramEngineeringRep\PETask\PETask\obj\Debug\net8.0\PETask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kraso\Documents\GitHub\ProgramEngineeringRep\PETask\PETask\obj\Debug\net8.0\PETask.AssemblyInfoInputs.cache
+C:\Users\kraso\Documents\GitHub\ProgramEngineeringRep\PETask\PETask\obj\Debug\net8.0\PETask.AssemblyInfo.cs
+C:\Users\kraso\Documents\GitHub\ProgramEngineeringRep\PETask\PETask\obj\Debug\net8.0\PETask.csproj.CoreCompileInputs.cache
+C:\Users\kraso\Documents\GitHub\ProgramEngineeringRep\PETask\PETask\obj\Debug\net8.0\PETask.sourcelink.json
+C:\Users\kraso\Documents\GitHub\ProgramEngineeringRep\PETask\PETask\obj\Debug\net8.0\PETask.dll
+C:\Users\kraso\Documents\GitHub\ProgramEngineeringRep\PETask\PETask\obj\Debug\net8.0\refint\PETask.dll
+C:\Users\kraso\Documents\GitHub\ProgramEngineeringRep\PETask\PETask\obj\Debug\net8.0\PETask.pdb
+C:\Users\kraso\Documents\GitHub\ProgramEngineeringRep\PETask\PETask\obj\Debug\net8.0\PETask.genruntimeconfig.cache
+C:\Users\kraso\Documents\GitHub\ProgramEngineeringRep\PETask\PETask\obj\Debug\net8.0\ref\PETask.dll
