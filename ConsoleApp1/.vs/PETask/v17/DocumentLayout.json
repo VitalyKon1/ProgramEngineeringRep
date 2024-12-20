@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\kraso\\Documents\\GitHub\\ProgramEngineeringRep\\ConsoleApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E637B40C-248A-4884-996B-C1139001ADDC}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\kraso\\documents\\github\\programengineeringrep\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E637B40C-248A-4884-996B-C1139001ADDC}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{05A86918-7CC3-4872-841B-3ABB9F26D985}|BAd_ProJECt\\BAd_ProJECt.csproj|c:\\users\\kraso\\documents\\github\\programengineeringrep\\consoleapp1\\bad_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A86918-7CC3-4872-841B-3ABB9F26D985}|BAd_ProJECt\\BAd_ProJECt.csproj|solutionrelative:bad_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E637B40C-248A-4884-996B-C1139001ADDC}|ConsoleApp1\\PETask.csproj|c:\\users\\kraso\\documents\\github\\programengineeringrep\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E637B40C-248A-4884-996B-C1139001ADDC}|ConsoleApp1\\PETask.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,11 +32,24 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kraso\\Documents\\GitHub\\ProgramEngineeringRep\\ConsoleApp1\\BAd_ProJECt\\Program.cs",
+              "RelativeDocumentMoniker": "BAd_ProJECt\\Program.cs",
+              "ToolTip": "C:\\Users\\kraso\\Documents\\GitHub\\ProgramEngineeringRep\\ConsoleApp1\\BAd_ProJECt\\Program.cs",
+              "RelativeToolTip": "BAd_ProJECt\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T22:41:01.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\kraso\\Documents\\GitHub\\ProgramEngineeringRep\\ConsoleApp1\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
               "ToolTip": "C:\\Users\\kraso\\Documents\\GitHub\\ProgramEngineeringRep\\ConsoleApp1\\ConsoleApp1\\Program.cs",
               "RelativeToolTip": "ConsoleApp1\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-20T22:18:25.828Z",
               "EditorCaption": ""

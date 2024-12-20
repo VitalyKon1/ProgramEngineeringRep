@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("PETask")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("BAd_ProJECt")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+36e78d9fcb2afc25a82885f10f36c01f41d7ab4e")]
-[assembly: System.Reflection.AssemblyProductAttribute("PETask")]
-[assembly: System.Reflection.AssemblyTitleAttribute("PETask")]
+[assembly: System.Reflection.AssemblyProductAttribute("BAd_ProJECt")]
+[assembly: System.Reflection.AssemblyTitleAttribute("BAd_ProJECt")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.
