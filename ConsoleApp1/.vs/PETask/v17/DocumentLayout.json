@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\kraso\\Documents\\GitHub\\ProgramEngineeringRep\\ConsoleApp1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1B064780-721E-471F-9886-6FA9F4267CD8}|TestProject\\TestProject.csproj|c:\\users\\kraso\\documents\\github\\programengineeringrep\\consoleapp1\\testproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B064780-721E-471F-9886-6FA9F4267CD8}|TestProject\\TestProject.csproj|solutionrelative:testproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{05A86918-7CC3-4872-841B-3ABB9F26D985}|BAd_ProJECt\\BAd_ProJECt.csproj|c:\\users\\kraso\\documents\\github\\programengineeringrep\\consoleapp1\\bad_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{05A86918-7CC3-4872-841B-3ABB9F26D985}|BAd_ProJECt\\BAd_ProJECt.csproj|solutionrelative:bad_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 219,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,28 +34,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\kraso\\Documents\\GitHub\\ProgramEngineeringRep\\ConsoleApp1\\BAd_ProJECt\\Program.cs",
               "RelativeDocumentMoniker": "BAd_ProJECt\\Program.cs",
               "ToolTip": "C:\\Users\\kraso\\Documents\\GitHub\\ProgramEngineeringRep\\ConsoleApp1\\BAd_ProJECt\\Program.cs",
               "RelativeToolTip": "BAd_ProJECt\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAArAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T22:41:01.09Z",
+              "WhenOpened": "2024-12-20T23:15:12.499Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\kraso\\Documents\\GitHub\\ProgramEngineeringRep\\ConsoleApp1\\TestProject\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestProject\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\kraso\\Documents\\GitHub\\ProgramEngineeringRep\\ConsoleApp1\\TestProject\\UnitTest1.cs",
+              "RelativeToolTip": "TestProject\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T23:13:20.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\kraso\\Documents\\GitHub\\ProgramEngineeringRep\\ConsoleApp1\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
               "ToolTip": "C:\\Users\\kraso\\Documents\\GitHub\\ProgramEngineeringRep\\ConsoleApp1\\ConsoleApp1\\Program.cs",
               "RelativeToolTip": "ConsoleApp1\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA4AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T22:18:25.828Z",
+              "WhenOpened": "2024-12-20T23:11:38.734Z",
               "EditorCaption": ""
             }
           ]

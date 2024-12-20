@@ -1,0 +1,15 @@
+C:\Users\kraso\Documents\GitHub\ProgramEngineeringRep\ConsoleApp1\BAd_ProJECt\obj\Debug\net8.0\BAd_ProJECt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kraso\Documents\GitHub\ProgramEngineeringRep\ConsoleApp1\BAd_ProJECt\obj\Debug\net8.0\BAd_ProJECt.AssemblyInfoInputs.cache
+C:\Users\kraso\Documents\GitHub\ProgramEngineeringRep\ConsoleApp1\BAd_ProJECt\obj\Debug\net8.0\BAd_ProJECt.AssemblyInfo.cs
+C:\Users\kraso\Documents\GitHub\ProgramEngineeringRep\ConsoleApp1\BAd_ProJECt\obj\Debug\net8.0\BAd_ProJECt.csproj.CoreCompileInputs.cache
+C:\Users\kraso\Documents\GitHub\ProgramEngineeringRep\ConsoleApp1\BAd_ProJECt\obj\Debug\net8.0\BAd_ProJECt.sourcelink.json
+C:\Users\kraso\Documents\GitHub\ProgramEngineeringRep\ConsoleApp1\BAd_ProJECt\bin\Debug\net8.0\BAd_ProJECt.exe
+C:\Users\kraso\Documents\GitHub\ProgramEngineeringRep\ConsoleApp1\BAd_ProJECt\bin\Debug\net8.0\BAd_ProJECt.deps.json
+C:\Users\kraso\Documents\GitHub\ProgramEngineeringRep\ConsoleApp1\BAd_ProJECt\bin\Debug\net8.0\BAd_ProJECt.runtimeconfig.json
+C:\Users\kraso\Documents\GitHub\ProgramEngineeringRep\ConsoleApp1\BAd_ProJECt\bin\Debug\net8.0\BAd_ProJECt.dll
+C:\Users\kraso\Documents\GitHub\ProgramEngineeringRep\ConsoleApp1\BAd_ProJECt\bin\Debug\net8.0\BAd_ProJECt.pdb
+C:\Users\kraso\Documents\GitHub\ProgramEngineeringRep\ConsoleApp1\BAd_ProJECt\obj\Debug\net8.0\BAd_ProJECt.dll
+C:\Users\kraso\Documents\GitHub\ProgramEngineeringRep\ConsoleApp1\BAd_ProJECt\obj\Debug\net8.0\refint\BAd_ProJECt.dll
+C:\Users\kraso\Documents\GitHub\ProgramEngineeringRep\ConsoleApp1\BAd_ProJECt\obj\Debug\net8.0\BAd_ProJECt.pdb
+C:\Users\kraso\Documents\GitHub\ProgramEngineeringRep\ConsoleApp1\BAd_ProJECt\obj\Debug\net8.0\BAd_ProJECt.genruntimeconfig.cache
+C:\Users\kraso\Documents\GitHub\ProgramEngineeringRep\ConsoleApp1\BAd_ProJECt\obj\Debug\net8.0\ref\BAd_ProJECt.dll

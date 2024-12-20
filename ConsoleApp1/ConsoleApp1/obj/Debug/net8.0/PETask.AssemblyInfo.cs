@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PETask")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+36e78d9fcb2afc25a82885f10f36c01f41d7ab4e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e5a2ec186eebdfa2b1d119b4584b58a48b9b6e73")]
 [assembly: System.Reflection.AssemblyProductAttribute("PETask")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PETask")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
