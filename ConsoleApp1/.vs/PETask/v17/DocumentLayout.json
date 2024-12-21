@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\kraso\\Documents\\GitHub\\ProgramEngineeringRep\\ConsoleApp1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3E5DC4B2-FDE2-4FF9-A3DE-A9439DDED07A}|FixFails\\FixFails.csproj|c:\\users\\kraso\\documents\\github\\programengineeringrep\\consoleapp1\\fixfails\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E5DC4B2-FDE2-4FF9-A3DE-A9439DDED07A}|FixFails\\FixFails.csproj|solutionrelative:fixfails\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{05A86918-7CC3-4872-841B-3ABB9F26D985}|BAd_ProJECt\\BAd_ProJECt.csproj|c:\\users\\kraso\\documents\\github\\programengineeringrep\\consoleapp1\\bad_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{05A86918-7CC3-4872-841B-3ABB9F26D985}|BAd_ProJECt\\BAd_ProJECt.csproj|solutionrelative:bad_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -26,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 219,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,7 +42,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kraso\\Documents\\GitHub\\ProgramEngineeringRep\\ConsoleApp1\\FixFails\\Program.cs",
+              "RelativeDocumentMoniker": "FixFails\\Program.cs",
+              "ToolTip": "C:\\Users\\kraso\\Documents\\GitHub\\ProgramEngineeringRep\\ConsoleApp1\\FixFails\\Program.cs",
+              "RelativeToolTip": "FixFails\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T01:07:47.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\kraso\\Documents\\GitHub\\ProgramEngineeringRep\\ConsoleApp1\\InstructionApp\\Program.cs",
               "RelativeDocumentMoniker": "InstructionApp\\Program.cs",
@@ -46,12 +63,11 @@
               "RelativeToolTip": "InstructionApp\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T23:34:47.008Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-20T23:34:47.008Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\kraso\\Documents\\GitHub\\ProgramEngineeringRep\\ConsoleApp1\\BAd_ProJECt\\Program.cs",
               "RelativeDocumentMoniker": "BAd_ProJECt\\Program.cs",
@@ -64,7 +80,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "C:\\Users\\kraso\\Documents\\GitHub\\ProgramEngineeringRep\\ConsoleApp1\\TestProject\\UnitTest1.cs",
               "RelativeDocumentMoniker": "TestProject\\UnitTest1.cs",
@@ -76,7 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\kraso\\Documents\\GitHub\\ProgramEngineeringRep\\ConsoleApp1\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
